@@ -48,9 +48,7 @@
 ### Current Focus & Open-Source Projects
 
 #### [Mavent Labs](https://github.com/Maventlabs) — *Systems & AI Agent Innovation*
-* **[Kestrel](https://github.com/Maventlabs/Kestrel)** — Self-hosted Agentic AI for strategy & business intelligence. (Ver. 1.00)
 * **[AgentRust](https://github.com/Maventlabs/AgentRust)** — High-performance, lightweight AI agent framework engineered in **Rust**. (Ver. 1.00)
-* **[Moxie Labs](https://github.com/Maventlabs/Moxielabs)** — Autonomous multi-agent AI systems for creative workflow orchestration. (Ver. 1.00)
 * **[MaventOS](https://github.com/Maventlabs/MaventOS)** *(Flagship / Target: Late August – Early September 2026)* — Next-gen Autonomous AI Workstation featuring Dashboard, Central Brain, Embedded Terminal, Smart Notes, File Organization IDE, STT-to-TTS Engine, Model Context Protocol (MCP) integration, and orchestration for 5 Core Agents & 50 Sub-Agents.
 
 #### Vizartlabs — *Brand Identity & Digital Product Design*
