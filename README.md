@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Maventlabs" alt="Maventlabs" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=50&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Vetrns" alt="vetrns" />
 </p>
 
-<h3 align="center">Systems & Full-Stack AI Engineer | Founder at Mavent Labs & Vizartlabs</h3>
+<h3 align="center">Systems & Full-Stack AI Engineer | Founder at Mavent & Vizart/h3>
 
 <p align="center">
   Building at the intersection of <b>Artificial Intelligence</b>, <b>High-Performance Systems</b>, and <b>Network Infrastructure</b>.
@@ -49,7 +49,6 @@
 
 #### [Mavent Labs](https://github.com/Maventlabs) — *Systems & AI Agent Innovation*
 * **[AgentRust](https://github.com/Maventlabs/AgentRust)** — High-performance, lightweight AI agent framework engineered in **Rust**. (Ver. 1.00)
-* **[MaventOS](https://github.com/Maventlabs/MaventOS)** *(Flagship / Target: Late August – Early September 2026)* — Next-gen Autonomous AI Workstation featuring Dashboard, Central Brain, Embedded Terminal, Smart Notes, File Organization IDE, STT-to-TTS Engine, Model Context Protocol (MCP) integration, and orchestration for 5 Core Agents & 50 Sub-Agents.
 
 #### Vizartlabs — *Brand Identity & Digital Product Design*
 * Crafting high-fidelity UI/UX architectures, design systems, and modern web application interfaces.
@@ -58,8 +57,8 @@
 
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats.shion.dev/api?username=Maventlabs&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maventlabs&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Top Languages" />
+  <img height="185" src="https://github-readme-stats.shion.dev/api?username=vetrns&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img height="185" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vetrns&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Top Languages" />
 </p>
 
 <p align="center">
